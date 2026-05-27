@@ -27,7 +27,9 @@ export const CATEGORIES = [
   "Healthcare",
   "Sales",
   "DevOps",
-  "Web3"
+ "Web3",
+"Gaming",
+"Real Estate"
 ];
 
 
